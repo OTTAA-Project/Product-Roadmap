@@ -1,5 +1,5 @@
 # OTTAA public roadmap
-❇️ View the OTTAA public product roadmap [addlink]
+❇️ View the OTTAA public product roadmap [https://markwhen.com/OTTAA/Roadmap]
 
 Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you. 
 
